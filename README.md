@@ -1,4 +1,4 @@
-Добавление кнопки да
+[![Build Status](https://travis-ci.com/Lam0Rka/lab888.svg?branch=main)](https://travis-ci.com/Lam0Rka/lab888)
 ```sh
 $ export GITHUB_USERNAME=Lam0Rka
 ```
