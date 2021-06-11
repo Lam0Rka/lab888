@@ -1,4 +1,4 @@
-Добавление кнопки
+Добавление кнопки да
 ```sh
 $ export GITHUB_USERNAME=Lam0Rka
 ```
