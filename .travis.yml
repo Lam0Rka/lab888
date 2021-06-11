@@ -1,7 +1,5 @@
-g<CR>o
+language: cpp
 services:
-- docker<ESC>
-jVGdo
+        - docker
 script:
-- docker build -t logger .<ESC>
-:wq
+        - docker build -t logger .
